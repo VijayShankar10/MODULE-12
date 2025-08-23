@@ -1,25 +1,25 @@
-Ex.No:5
+# Ex.No:5
 
-Ex.Name: Write the Greater than Module of Binary Search in CPP
+# Ex.Name: Write the Greater than Module of Binary Search in CPP
 
-Date:
-Aim:
-
-
-Algorithm:
+## Date:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+## Result:
 
 
