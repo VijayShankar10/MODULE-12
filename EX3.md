@@ -1,26 +1,26 @@
-Ex.No:3
+# Ex.No:3
 
-Ex.Name: Write the quickSort module of Quick Sort in CPP.
+# Ex.Name: Write the quickSort module of Quick Sort in CPP.
 
-Date:
+## Date:
 
-Aim:
-
-
-Algorithm:
+## Aim:
 
 
+## Algorithm:
 
 
 
-Program:
+
+
+## Program:
 
 
 
-Output:
+## Output:
 
 
 
- Result:
+## Result:
 
 
