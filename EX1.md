@@ -68,7 +68,11 @@ BST* BST ::deleteNode(BST* root, int value)
 }
 
 ```
+
 ## Output:
+<img width="872" height="499" alt="image" src="https://github.com/user-attachments/assets/093a30fe-cd30-4541-8dbc-d96aaa422d6e" />
+
+## Result:
 ```
 Input:
 3
@@ -78,7 +82,3 @@ Input:
 Output:
 7 12
 ```
-## Result:
-<img width="872" height="499" alt="image" src="https://github.com/user-attachments/assets/093a30fe-cd30-4541-8dbc-d96aaa422d6e" />
-
-
