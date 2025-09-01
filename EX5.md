@@ -68,7 +68,11 @@ void merge(int arr[], int l, int m, int r)
     }
 }
 ```
+
 ## Output:
+<img width="873" height="454" alt="image" src="https://github.com/user-attachments/assets/70fd1c12-b20b-46e3-8e73-b433f30666c3" />
+
+## Result:
 ```
 Input:
 6
@@ -78,7 +82,3 @@ Output:
 12 11 13 5 6 7
 5 6 7 11 12 13
 ```
-## Result:
-<img width="873" height="454" alt="image" src="https://github.com/user-attachments/assets/70fd1c12-b20b-46e3-8e73-b433f30666c3" />
-
-
