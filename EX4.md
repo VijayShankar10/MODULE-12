@@ -32,7 +32,11 @@ void printArray(int array[], int size){
     cout<<endl;
 }
 ```
+
 ## Output:
+<img width="868" height="467" alt="image" src="https://github.com/user-attachments/assets/706050d0-dbbb-46b8-b2e9-781db13ca168" />
+
+## Result:
 ```
 Input:
 7
@@ -42,7 +46,3 @@ Output:
 19 15 20 25 34 44 5
 5 15 19 20 25 34 44
 ```
-## Result:
-<img width="868" height="467" alt="image" src="https://github.com/user-attachments/assets/706050d0-dbbb-46b8-b2e9-781db13ca168" />
-
-
