@@ -44,7 +44,11 @@ int BS(int a[], int n, int search)
     return 0;
 }
 ```
+
 ## Output:
+<img width="863" height="533" alt="image" src="https://github.com/user-attachments/assets/d1e0d6a4-bdb5-42bf-9de3-5f4b3b3e9327" />
+
+## Result:
 ```
 Input:
 5
@@ -62,7 +66,3 @@ Input:
 Output:
 Element found at 8 position
 ```
-## Result:
-<img width="863" height="533" alt="image" src="https://github.com/user-attachments/assets/d1e0d6a4-bdb5-42bf-9de3-5f4b3b3e9327" />
-
-
