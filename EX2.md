@@ -23,7 +23,11 @@ void print(int arr[]){
     }
 }
 ```
+
 ## Output:
+<img width="861" height="579" alt="image" src="https://github.com/user-attachments/assets/201129f2-dd13-4f88-8099-adb571337391" />
+
+## Result:
 ```
 Input:
 100 90 80 70 60
@@ -34,7 +38,3 @@ Before Sorting the Array:
 After Sorting the Array:
 60 70 80 90 100
 ```
-## Result:
-<img width="861" height="579" alt="image" src="https://github.com/user-attachments/assets/201129f2-dd13-4f88-8099-adb571337391" />
-
-
